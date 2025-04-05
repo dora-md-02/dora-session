@@ -128,7 +128,7 @@ router.get('/', async (req, res) => {
 
 ⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Dora Md GitHub Repo](https://github.com/dora-md-v/)  
 
-🚀 _Thanks for choosing BOTNAME — Let the automation begin!_ ✨`;
+🚀 _THANKS FOR CHOOSING DORA-MD — LET THE AUTOMATIN BEGIN!_ ✨`;
 
                     await Malvin.sendMessage(Malvin.user.id, { text: MALVIN_TEXT }, { quoted: session });
 
